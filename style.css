@@ -1,0 +1,7 @@
+.backgrounds{
+    filter: brightness(50%);
+    background-image: url(image/cover/cover-1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 700px;
+}
